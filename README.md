@@ -2,10 +2,8 @@
 
 Este repositorio contiene mis proyectos y notas personales mientras aprendo Data Science desde cero. Estoy empezando con herramientas esenciales como **NumPy**, **pandas**, **matplotlib** y **seaborn**.
 
-## 🚀 Proyecto 01: Limpieza de Datos Básica
-
 ### 📄 Descripción
-Mi primer notebook incluye un dataset crudo (sin limpiar) y una limpieza básica con pandas:
+Incluye un dataset crudo (sin limpiar) y una limpieza básica con pandas:
 - Eliminación de valores nulos
 - Conversión de tipos de datos
 - Renombrado de columnas
@@ -28,8 +26,6 @@ El dataset es un archivo que incluye información de la base de datos.
 
 ## 📌 Notas
 Este es solo el comienzo. A medida que avance, voy a agregar notebooks sobre análisis exploratorio, visualización de datos y machine learning.
-
-
 
 ## ✨ Progreso futuro
 - [x] Limpieza básica de datos
